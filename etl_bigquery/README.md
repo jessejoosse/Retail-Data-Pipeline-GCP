@@ -1,7 +1,7 @@
 # Retail-Data-Pipeline-GCP
 # ETL_BigQuery
 
-###🚀 ETL in BigQuery (Retail Data Pipeline)
+##🚀 ETL in BigQuery (Retail Data Pipeline)
 
 📌 Overview
 

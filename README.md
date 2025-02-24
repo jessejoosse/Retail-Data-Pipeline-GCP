@@ -128,7 +128,7 @@ Optimize ETL jobs for better performance.
 
 📌 How to Use:
 
-Clone this repo: git clone https://github.com/yourusername/Retail-Data-Pipeline-GCP.git
+Clone this repo: git clone https://github.com/jessejoosse/Retail-Data-Pipeline-GCP.git
 
 Follow individual subproject README files for detailed execution.
 

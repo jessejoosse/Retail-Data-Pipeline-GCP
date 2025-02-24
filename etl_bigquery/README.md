@@ -23,12 +23,12 @@ SQL – Data transformation and aggregation
 Python (Optional for automation)
 
 📂 Project Structure
-
+```
 etl_bigquery/
 │── sql_scripts/       # SQL queries for data transformation
 │── raw_data/          # AdventureWorks CSV files (uploaded to GCS)
 │── README.md          # Documentation for ETL process
-
+```
 🛠 Steps to Recreate
 
 1️⃣ Upload Data to Google Cloud Storage (GCS)

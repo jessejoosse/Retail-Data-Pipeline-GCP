@@ -18,12 +18,12 @@ Power BI – Business Intelligence & Data Visualization
 Tableau – Data Storytelling & Dashboarding
 
 📂 Project Structure
-
+```
 bi_dashboard/
 │── powerbi/           # Power BI .pbix file
 │── tableau/           # Tableau .twbx file (Public Version)
 │── README.md          # Documentation for BI dashboard
-
+```
 🛠 Steps to Recreate
 
 1️⃣ Connect BigQuery to Power BI

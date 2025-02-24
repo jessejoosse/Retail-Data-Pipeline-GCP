@@ -23,12 +23,12 @@ Google BigQuery – Data warehousing
 Python – Scripting Airflow DAGs
 
 📂 Project Structure
-
+```
 airflow_etl/
 │── dags/              # Airflow DAGs for automating ETL
 │── scripts/           # Python scripts for automation
 │── README.md          # Documentation for ETL automation
-
+```
 🛠 Steps to Recreate
 
 1️⃣ Set Up Apache Airflow

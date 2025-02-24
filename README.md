@@ -31,7 +31,7 @@ Apache Airflow – Workflow orchestration for automated ETL
 Python (for Airflow DAGs & data processing)
 
 📂 Project Structure
-
+```
 Retail-Data-Pipeline-GCP/
 │── etl_bigquery/          # Project 1: Data Pipeline (ETL in BigQuery)
 │   ├── sql_scripts/       # SQL queries for data transformation
@@ -49,7 +49,7 @@ Retail-Data-Pipeline-GCP/
 │   ├── README.md          # Project 3 documentation
 │
 │── README.md              # Main Project Overview (All 3 Projects)
-
+```
 📊 Subprojects Breakdown
 
 1️⃣ ETL in BigQuery

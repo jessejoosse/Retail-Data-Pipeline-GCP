@@ -1,6 +1,4 @@
 # Retail-Data-Pipeline-GCP
-# Master readme file for project trio
-## For sub-project specific readme files, navigate to each folder (etl_bigquery, airflow_etl, and bi_dashboard)
 
 🚀 Retail Data Pipeline (GCP)
 
@@ -66,7 +64,7 @@ Write SQL transformation scripts to clean and aggregate data.
 
 Output: A structured BigQuery dataset ready for analysis.
 
-🔗 Detailed Project Guide
+[🔗 Detailed Project Guide](./etl_bigquer/README.md)
 
 2️⃣ BI Dashboard (Power BI & Tableau)
 

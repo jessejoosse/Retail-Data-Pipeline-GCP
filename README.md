@@ -34,6 +34,7 @@ Retail-Data-Pipeline-GCP/
 │── etl_bigquery/          # Project 1: Data Pipeline (ETL in BigQuery)
 │   ├── sql_scripts/       # SQL queries for data transformation
 │   ├── raw_data/          # AdventureWorks CSV files
+|   │── extraction_scripts/# Python scripts for extracting AdventureWorks data from MS SQL
 │   ├── README.md          # Project 1 documentation
 │
 │── bi_dashboard/          # Project 2: Power BI & Tableau Visualization

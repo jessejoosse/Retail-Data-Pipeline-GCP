@@ -64,7 +64,7 @@ Write SQL transformation scripts to clean and aggregate data.
 
 Output: A structured BigQuery dataset ready for analysis.
 
-[🔗 Detailed Project Guide](./etl_bigquer/README.md)
+[🔗 Detailed Project Guide](./etl_bigquery/README.md)
 
 2️⃣ BI Dashboard (Power BI & Tableau)
 
